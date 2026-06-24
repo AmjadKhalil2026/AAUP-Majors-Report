@@ -530,9 +530,6 @@
     </div>
   </div>
 </div>
-
-<div class="footer-note" id="footer"></div>
-      <footer>
   <footer>
   <div class="ft", align ="center">AAUP — Faculty — Reportتقرير التخصصات في الجامعة الأمريكية - رام الله </div>
   <p align ="center">Introduction to coding for journalists AAUP - Student: Razan Idris</p>
