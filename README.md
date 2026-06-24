@@ -531,9 +531,9 @@
 </div>
 </div>
   <footer>
-  <p class="ft", align ="center">AAUP — Faculty — Reportتقرير التخصصات في الجامعة الأمريكية - رام الله </p>
+  <p align ="center">AAUP — Faculty — Reportتقرير التخصصات في الجامعة الأمريكية - رام الله </p>
   <p align ="center">Introduction to coding for journalists AAUP - Student: Razan Idris</p>
-  <p style="margin-top:8px;font-size:1rem;opacity:.7", align ="center">AAUP - Instructor: Amjad Khalil · Faculty of Modern Media</p>
+  <p align ="center">AAUP - Instructor: Amjad Khalil · Faculty of Modern Media</p>
   </footer>
   </div>
 <script>
